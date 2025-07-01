@@ -57,3 +57,43 @@ Interactive elements like buttons, search fields, sliders, forms, or expandable 
 • Communicates the intended behavior of dynamic elements
 ### Example Contribution:
 A wireframe might include a Sign Up button beneath a form, indicating that users can submit their details. Annotations might specify that clicking the button triggers a confirmation message or redirects the user.
+
+# Types of Wireframes
+# Low-Fidelity vs. High-Fidelity Wireframes
+Understanding the difference between low-fidelity and high-fidelity wireframes is key to choosing the right tool at each stage of the design process.
+
+## Low-Fidelity Wireframes
+### What they are:
+•	Simple, rough sketches—often black and white
+•	Focus on layout, structure, and basic placement of elements
+•	Minimal detail, no styling, images, or precise text
+•	Created quickly with paper, whiteboards, or basic digital tools
+### When to use them:
+•	Early in the design process
+•	To brainstorm ideas and explore multiple layout options
+•	When gathering initial feedback from stakeholders
+•	To identify major usability issues before investing time in detailed designs
+### Example Scenario:
+Sketching a few homepage layouts to discuss where the navigation bar and hero section should go, without worrying about colors or exact fonts.
+
+## High-Fidelity Wireframes
+### What they are:
+•	Detailed, polished digital layouts
+•	Include precise spacing, typography, images, icons, and sometimes colors (though still often grayscale)
+•	May incorporate interactive elements or simulated functionality
+•	Closer to the final product’s look and feel
+### When to use them:
+•	Later in the design process, after ideas are validated
+•	To refine user flows and interactions in detail
+•	When preparing handoffs to developers
+•	To conduct usability testing that requires realistic screens
+### Example Scenario:
+Creating a detailed wireframe of a product page, specifying exact button labels, image sizes, and hover states, ready for stakeholder approval or development.
+
+| **Aspect**       | **Low-Fidelity**                          | **High-Fidelity**                       |
+| ---------------- | ----------------------------------------- | --------------------------------------- |
+| **Detail Level** | Basic layout and structure                | Detailed visuals and interactions       |
+| **Speed**        | Fast to create                            | More time-consuming                     |
+| **Tools**        | Paper, whiteboards, simple digital apps   | Advanced design tools (Figma, Adobe XD) |
+| **Purpose**      | Exploring ideas, gathering early feedback | Fine-tuning designs, developer handoff  |
+| **Audience**     | Internal teams, stakeholders              | Stakeholders, users, developers         |
