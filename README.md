@@ -174,3 +174,49 @@ Extend functionality with plugins for icons, stock photos, accessibility checks,
 ### ✅ Is platform-independent (works on Mac, Windows, Linux via browser)
 ### ✅ Scales well from solo designers to large enterprise teams
 
+# Benefits of wireframing from a software development perspective
+Wireframing isn’t just a “designer’s task”—it’s a critical part of the software development lifecycle (SDLC). It bridges the gap between ideas and implementation, benefiting the entire team.
+
+## 1. Clarity of Requirements
+### Benefit:
+Wireframes transform abstract ideas into visible, tangible layouts. They show what needs to be built—before a single line of code is written.
+### Example:
+Instead of merely describing “a page with listings,” a wireframe for an Airbnb project visually lays out where property images, prices, and filters will appear. Developers can easily translate this into UI components.
+
+## 2. Aligns the Team on a Shared Vision
+## Benefit:
+Wireframes serve as a single source of truth for designers, developers, product managers, and stakeholders.
+### Example:
+In Figma, multiple team members can comment directly on wireframes. A developer might ask:
+“Should this ‘Book Now’ button trigger a modal or redirect to a new page?”
+The designer can answer in context, avoiding misunderstandings later.
+
+## 3. Early Identification of Issues
+### Benefit:
+It’s much cheaper and faster to adjust layouts in a wireframe than after development has begun.
+### Example:
+Imagine the wireframe for Airbnb shows 10 filters in a sidebar. During a team review, developers might flag that handling so many filters dynamically could be complex. The team can agree to reduce it to 5 filters upfront—saving time and cost.
+
+## 4. Speeds Up Development
+### Benefit:
+Wireframes often indicate layout structure, navigation, and functionality—giving developers a roadmap.
+### Example:
+From the high-fidelity wireframe in your Figma Airbnb project:
+•	Developers know where to place API calls for property images.
+•	Frontend developers can identify which components to build (e.g. card grids, filters, navigation bars).
+•	Backend developers can plan data models to support the UI.
+
+## 5. Facilitates Stakeholder Feedback
+### Benefit:
+Stakeholders can review wireframes and provide feedback before costly development occurs.
+### Example:
+Instead of building a full Airbnb listing page, a high-fidelity wireframe lets stakeholders confirm:
+•	The placement of “Book Now”
+•	How pricing is displayed
+•	Whether images should be large or small
+Adjustments are made early, avoiding rework in code.
+
+## 6. Supports Better Estimation
+### Benefit:
+Developers can estimate time and resources more accurately by seeing the complexity of screens and interactions.
+
