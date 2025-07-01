@@ -220,3 +220,53 @@ Adjustments are made early, avoiding rework in code.
 ### Benefit:
 Developers can estimate time and resources more accurately by seeing the complexity of screens and interactions.
 
+# Real-World Scenario: Wireframing Reveals Usability Issues
+## The Project
+###  Context:
+A design team was working on an Airbnb-style property rental app. One core feature was a search results page showing properties filtered by:
+•	Price range
+•	Amenities
+•	Number of bedrooms
+•	Location
+
+## The Wireframing Phase
+### The team created a high-fidelity wireframe in Figma showing:
+•	A left sidebar with filters
+•	A grid of property cards on the right
+•	Each card displaying an image, title, price, and short description
+
+## The Usability Issue Identified
+### During a stakeholder review session:
+•	Test users tried the wireframe prototype.
+•	Many didn’t realize they needed to scroll down the filters to see all options.
+•	On smaller screens, only two filters were visible above the fold.
+•	Users felt confused because they couldn’t quickly find filters like “Pet Friendly” or “Pool.”
+### Problem:
+Critical filters were hidden, creating a poor user experience and potential frustration for travelers trying to refine their search.
+
+## How the Issue Was Resolved
+### Instead of moving ahead to development:
+•	Designers adjusted the wireframe:
+o	Introduced collapsible filter categories (e.g. Amenities, Price, Property Type).
+o	Added an icon indicating more filters were available.
+o	Included a “Show All Filters” button at the top of the sidebar.
+•	The new wireframe was tested again:
+o	Users found it much easier to locate and use all filter options.
+o	Scrolling was reduced, making the experience faster and smoother.
+
+## Impact on the Final Product
+### ✅ Improved Usability:
+Users could now find relevant filters without confusion.
+### ✅ Saved Development Time:
+Fixing this in the wireframe stage avoided rewriting code for complex filter components later.
+### ✅ Higher Stakeholder Confidence:
+Stakeholders felt assured the product met user needs before any costly development.
+### ✅ Positive User Feedback:
+Post-launch testing showed users rated the filter experience highly for ease of use.
+
+## The Role of Wireframing
+### This example highlights how wireframing:
+•	Exposes usability issues early—before development.
+•	Saves significant time and cost.
+•	Allows rapid iteration without writing code.
+•	Aligns teams on user-centered solutions.
