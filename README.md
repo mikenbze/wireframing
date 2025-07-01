@@ -97,3 +97,80 @@ Creating a detailed wireframe of a product page, specifying exact button labels,
 | **Tools**        | Paper, whiteboards, simple digital apps   | Advanced design tools (Figma, Adobe XD) |
 | **Purpose**      | Exploring ideas, gathering early feedback | Fine-tuning designs, developer handoff  |
 | **Audience**     | Internal teams, stakeholders              | Stakeholders, users, developers         |
+
+# Type of wireframe
+### The wireframes shown on this link https://www.figma.com/design/E2BRqdPcKkrnX6hLGPto8Z/Project-Airbnb?node-id=1-2&p=f&t=peAXdJZaW2Vj7QDB-0 is High-Fidelity Wireframe
+They are detailed, polished representations of a digital product. They’re not just rough layouts—they closely resemble the final design.
+
+## Key Characteristics of High-Fidelity Wireframes
+### Visual Detail
+o	Real images, icons, logos
+o	Specific fonts, typography, and colors
+o	Precise spacing and layout
+
+### Content Accuracy
+o	Real text instead of placeholders
+o	Actual product names, labels, and data
+
+### Interactivity
+o	Clickable buttons, menus, modals
+o	Simulated user flows (e.g. hover states, transitions)
+
+### Design Consistency
+o	Matches brand guidelines
+o	Shows how the final interface should look and behave
+
+# Popular Wireframing Tools
+Many tools help designers create wireframes efficiently. Here’s a look at some favorites in the industry:
+
+## 1. Figma
+Figma is one of the most popular and versatile tools for wireframing and UI/UX design.
+### Key Features:
+•	Cloud-Based Collaboration
+Work simultaneously with team members in real time—no more sending files back and forth.
+•	Easy Prototyping
+Link wireframes into clickable prototypes to simulate user flows.
+•	Design Systems Support
+Create reusable components, styles, and assets for consistency across designs.
+•	Cross-Platform Access
+Works in your browser or via desktop apps, accessible on any operating system.
+•	Plugins and Integrations
+Extend functionality with plugins for icons, stock photos, accessibility checks, and more.
+### Why Figma is Great for Wireframing:
+•	Rapidly create low- or high-fidelity wireframes in the same tool.
+•	Collaborate live with stakeholders, gathering instant feedback.
+•	Transition seamlessly from wireframes to high-fidelity designs and prototypes.
+•	It’s free to start, making it accessible for individuals and small teams.
+
+## 2. Sketch
+•	Mac-only design tool widely used in the UI/UX community.
+•	Great for building reusable symbols and design systems.
+•	Strong plugin ecosystem.
+•	Limitation: Lacks native cloud collaboration without third-party tools.
+
+## 3. Adobe XD
+•	Available on Mac and Windows.
+•	Enables wireframing, UI design, and interactive prototyping in one app.
+•	Supports sharing designs for stakeholder feedback.
+•	Integrates well with other Adobe products.
+
+## 4. Balsamiq
+•	Focuses specifically on low-fidelity wireframes.
+•	Offers a hand-drawn, sketchy style to keep attention on layout rather than visuals.
+•	Simple, intuitive drag-and-drop interface.
+•	Best for quick wireframe mockups.
+
+## 5. Axure RP
+•	Powerful tool for advanced wireframes and complex interactions.
+•	Great for creating detailed prototypes with logic, variables, and dynamic content.
+•	More complex and has a steeper learning curve.
+
+## Why Figma is Highly Recommended
+### Figma stands out because it:
+### ✅ Allows real-time team collaboration
+### ✅ Works seamlessly for both wireframes and detailed UI design
+### ✅ Includes powerful prototyping and feedback tools
+### ✅ Supports design systems for consistency
+### ✅ Is platform-independent (works on Mac, Windows, Linux via browser)
+### ✅ Scales well from solo designers to large enterprise teams
+
