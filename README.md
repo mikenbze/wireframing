@@ -220,6 +220,7 @@ Adjustments are made early, avoiding rework in code.
 ### Benefit:
 Developers can estimate time and resources more accurately by seeing the complexity of screens and interactions.
 
+# Wireframing in Practice
 # Real-World Scenario: Wireframing Reveals Usability Issues
 ## The Project
 ###  Context:
